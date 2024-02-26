@@ -19,7 +19,7 @@ Backend Application with a restful api service.  The system provides robust func
 
 ### Installing 
 ```
-git clone github.com/Ajama0/NextStop-Backend.git 
+git clone https://github.com/Ajama0/NextStop-Backend.git
 ```
 
 ## Database configuration
