@@ -1,7 +1,7 @@
 # NextStop 
 
 ## Project Description
-Full Backend Application with a restful api service.  The system provides robust functionality for managing railway tickets, including ticket booking, cancellation, and modification, With users.
+Backend Application with a restful api service.  The system provides robust functionality for managing railway tickets, including ticket booking, cancellation, and modification, With users.
 
 
 ## Technologies Used
